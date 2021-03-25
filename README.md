@@ -13,6 +13,11 @@ mixlab
 结果：
 可以用单张图片输出静态船票：
 ![one](https://user-images.githubusercontent.com/70752098/112250589-98b55080-8c94-11eb-9226-c8301c898eeb.png)
+换脸：
+![143](https://user-images.githubusercontent.com/70752098/112411108-4db04180-8d57-11eb-8ad7-22cf018ace54.png)
 
 可以用视频输出动态船票
-稍等啊，视频还在拍hhh，
+https://mmbiz.qpic.cn/mmbiz_gif/pMDHibpHlCGaumblqI8OCZdXu1g3bibHe13Ip4gLZJLYM8ZGa7YZkic7ib4GYl40rNk6F9IFBjgsNCTopnFtRUcTCw/640?wx_fmt=gif&tp=webp&wxfrom=5&wx_lazy=1![image](https://user-images.githubusercontent.com/70752098/112411059-396c4480-8d57-11eb-99dd-49880b489411.png)
+
+
+
