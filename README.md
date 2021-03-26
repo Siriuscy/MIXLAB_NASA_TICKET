@@ -18,8 +18,6 @@ mixlab
 
 可以用视频输出动态船票   
 B站：https://www.bilibili.com/video/BV16b4y1Q7vF    
-这个视频好像不能播.截屏：
+截屏：
 <img width="1792" alt="截屏2021-03-26 上午11 22 50" src="https://user-images.githubusercontent.com/70752098/112572673-9d5d3e80-8e25-11eb-9341-a7932e5e7881.png">
-
-https://user-images.githubusercontent.com/70752098/112572521-46f00000-8e25-11eb-8fe6-1cc555f018fb.mp4
-![ukn42-958zm](https://user-images.githubusercontent.com/70752098/112610968-3a38cf80-8e58-11eb-858d-1ea16fd6aa1c.gif)
+![output_42](https://user-images.githubusercontent.com/70752098/112615970-242e0d80-8e5e-11eb-92e7-622f22551c21.gif)
