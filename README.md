@@ -1,3 +1,4 @@
+![ukn42-958zm](https://user-images.githubusercontent.com/70752098/112610913-2db47700-8e58-11eb-968f-1d7e05ffdafc.gif)
 # MIXLAB_NASA_TICKET
 mixlab
 
@@ -22,8 +23,4 @@ B站：https://www.bilibili.com/video/BV16b4y1Q7vF
 <img width="1792" alt="截屏2021-03-26 上午11 22 50" src="https://user-images.githubusercontent.com/70752098/112572673-9d5d3e80-8e25-11eb-9341-a7932e5e7881.png">
 
 https://user-images.githubusercontent.com/70752098/112572521-46f00000-8e25-11eb-8fe6-1cc555f018fb.mp4
-
-
-
-
-
+![ukn42-958zm](https://user-images.githubusercontent.com/70752098/112610968-3a38cf80-8e58-11eb-858d-1ea16fd6aa1c.gif)
