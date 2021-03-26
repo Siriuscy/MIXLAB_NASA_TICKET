@@ -1,4 +1,3 @@
-![ukn42-958zm](https://user-images.githubusercontent.com/70752098/112610913-2db47700-8e58-11eb-968f-1d7e05ffdafc.gif)
 # MIXLAB_NASA_TICKET
 mixlab
 
