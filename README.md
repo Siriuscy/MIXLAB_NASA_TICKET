@@ -17,7 +17,11 @@ mixlab
 ![143](https://user-images.githubusercontent.com/70752098/112411108-4db04180-8d57-11eb-8ad7-22cf018ace54.png)
 
 可以用视频输出动态船票
-https://mmbiz.qpic.cn/mmbiz_gif/pMDHibpHlCGaumblqI8OCZdXu1g3bibHe13Ip4gLZJLYM8ZGa7YZkic7ib4GYl40rNk6F9IFBjgsNCTopnFtRUcTCw/640?wx_fmt=gif&tp=webp&wxfrom=5&wx_lazy=1![image](https://user-images.githubusercontent.com/70752098/112411059-396c4480-8d57-11eb-99dd-49880b489411.png)
+B站：https://www.bilibili.com/video/BV16b4y1Q7vF
+
+https://user-images.githubusercontent.com/70752098/112572521-46f00000-8e25-11eb-8fe6-1cc555f018fb.mp4
+
+
 
 
 
